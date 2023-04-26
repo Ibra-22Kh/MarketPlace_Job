@@ -1,0 +1,4 @@
+
+//ignore in the back-end 
+node_modules
+.env
